@@ -1,0 +1,7 @@
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+/* Hover effect for table cells */
+td:hover {
+  background-color: #ddd;
+}
